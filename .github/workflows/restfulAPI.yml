@@ -1,4 +1,4 @@
-name: Star Wars CI pipeline through Postman
+name: Restful API CI pipeline through Postman
 
 on: push
 
